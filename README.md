@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **rastogiiansh9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:Swiggy Clone Frontend Based Project
-- 🌱 **I’m currently learning:** Frontend (React+TailwindCSS)
+- 🔭 **I’m currently working on:Ai Powered Coding Plateform 
+- 🌱 **I’m currently learning:** Mern Stack 
 - 🤔 **I’m looking for help with:** AI-Generator Website
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rastogiiansh9@gmail.com
