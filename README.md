@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **rastogiiansh9@gmail.com** For Collaboration/Project or An
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rastogiiansh9@gmail.com
 - 😄 **Pronouns:** Ansh Rastogi,
-- ⚡ **Fun fact:** I Love Tto connect people and to learnt from there mistake
+- ⚡ **Fun fact:** I Love to connect people and to learnt from there mistake
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshrastogi012) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnshRastogi9874) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rastogiiansh9@gmail.com) 
 
