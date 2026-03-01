@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ansh Rastogi
 **A passionate Web Devloper from India**
 
-Email Me 👉 ✉️ **rastogiiansh9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rastogiiansh9@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I’m currently working on:Ai Powered Coding Plateform 
 - 🌱 **I’m currently learning:** Mern Stack 
