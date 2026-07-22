@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **rastogiiansh9@gmail.com** For Collaboration/Project or An
 
 
 - 🌱 **I’m currently learning:** High Level Designing  
-- 🤔 **I’m looking for help with:**AI-Powered Coding Plateform
+- 🤔 **I’m looking for help with:**AI-Powered Coding Plateform and Nexora Placement Plateform
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rastogiiansh9@gmail.com
 - 😄 **Pronouns:** Ansh Rastogi,
